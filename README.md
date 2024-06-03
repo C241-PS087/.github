@@ -17,3 +17,4 @@ BooTani is our group project for Bangkit Capstone Project 2024 (Product Based), 
 - **(CC) C012D4KX0166 – Indah Amalia Putri – Universitas Telkom - Active**
 - **(CC) C012D4KY0785 – Rayhan Aziz Budiana – Universitas Telkom - Active**
 - **(MD) A322D4KY3455 – Rahmat Azrima – Universitas Syiah Kuala - Active**
+- **(MD) A553D4KY4334 – One Valdo Nathaniel Rembet – Universitas Advent Indonesia - Active**
