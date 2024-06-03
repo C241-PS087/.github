@@ -2,7 +2,7 @@
 
 ## What is BooTani?
 
-BooTani is our group project for Bangkit Capstone Project 2024 (Product Based), Boo-Tani is a new idea from our groups to solve the instability of the agro problems. We hope our idea and all the dependencies that we used can be the current breakthrough for agro problems.
+BooTani is our group project for Bangkit Capstone Project 2024 (Product Based), BooTani is a new idea from our groups to solve the instability of the agro problems. We hope our idea and all the dependencies that we used can be the current breakthrough for agro problems.
 **Completion Goals:** App can be used for Predictions, Forecasting, and Recomendations.
 
 ## Contributed by
